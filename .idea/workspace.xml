@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf28ddd-c28f-440e-b725-0951f7d86d5d" name="Changes" comment="20.07.2022_first">
+    <list default="true" id="abf28ddd-c28f-440e-b725-0951f7d86d5d" name="Changes" comment="220720_2">
+      <change afterPath="$PROJECT_DIR$/src/Zadachis/Zad_A10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadachis/Zad_A9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadachis/Zad_A9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +39,23 @@
     "last_opened_file_path": "C:/Java/Zadachi"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zad_A9">
+  <component name="RunManager" selected="Application.Zad_A10">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="Zadachis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad_A10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadachis.Zad_A10" />
+      <module name="Zadachis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadachis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad_A10" />
         <item itemvalue="Application.Zad_A9" />
         <item itemvalue="Application.Zad_A7" />
         <item itemvalue="Application.Hello" />
@@ -98,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658302722548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="220720_2">
+      <created>1658341685138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658341685138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <MESSAGE value="20.07.2022_first" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.07.2022_first" />
+    <MESSAGE value="220720_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="220720_2" />
   </component>
 </project>
