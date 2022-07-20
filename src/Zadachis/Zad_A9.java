@@ -15,10 +15,17 @@ public class Zad_A9 {
             System.out.print(c);
         if (b == c & b > a)
             System.out.print(b);
+        if (b == c & b == a & a == c)
+            System.out.print(b);
+        if (a > b & b == c)
+            System.out.print(b);
+        if ((b > a & a == c) | (c > a & a == b))
+            System.out.print(a);
+
     }
 
     public static void main(String[] args) {
         Zad_A9 zzz = new Zad_A9();
-        zzz.findMedian(7, 7, 7);
+        zzz.findMedian(11111111, 22222222, 55555555);
     }
 }
