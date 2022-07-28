@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Zad_1 {
 
     public static void main(String[] args) {
-        int[] a = {10, 5, 4, 24, 55, 3, 66, 38, 16, 27, 1};
+        int[] a = {5, 24, 3, 66, 38, 16, 27};
         int z;
         int y = a.length;
         while (y > 0) {
@@ -18,6 +18,7 @@ public class Zad_1 {
             }
             y--;
         }
-        System.out.println(Arrays.toString(a));
+//        System.out.println(Arrays.toString(a));
+        System.out.println(a[2]);
     }
 }
