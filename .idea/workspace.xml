@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf28ddd-c28f-440e-b725-0951f7d86d5d" name="Changes" comment="Library">
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DopZadachi/Mas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaRush/Solution.java" afterDir="false" />
+    <list default="true" id="abf28ddd-c28f-440e-b725-0951f7d86d5d" name="Changes" comment="Calculator">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaRush/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PROGLANG/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practika/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practika/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaRush/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +40,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/Zadachis/JavaRush" />
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.EvenNumber">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <option name="MAIN_CLASS_NAME" value="JavaRush.Calculator" />
       <module name="Zadachis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DopZadachi.Zad_4.Library" />
+    <configuration name="EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaRush.EvenNumber" />
       <module name="Zadachis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DopZadachi.Zad_4.*" />
+          <option name="PATTERN" value="JavaRush.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DopZadachi.Zad_1" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaRush.Test" />
       <module name="Zadachis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DopZadachi.*" />
+          <option name="PATTERN" value="JavaRush.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad_A12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadachis.Zad_A12" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PROGLANG.Test" />
       <module name="Zadachis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zadachis.*" />
+          <option name="PATTERN" value="PROGLANG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenNumber" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Zad_1" />
-        <item itemvalue="Application.Library" />
-        <item itemvalue="Application.Zad_A12" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +126,10 @@
       <workItem from="1658485398642" duration="4268000" />
       <workItem from="1659080121589" duration="604000" />
       <workItem from="1659436702116" duration="4115000" />
-      <workItem from="1671101457465" duration="2228000" />
+      <workItem from="1671101457465" duration="2284000" />
+      <workItem from="1671175572680" duration="3705000" />
+      <workItem from="1671432937631" duration="735000" />
+      <workItem from="1671519961812" duration="1699000" />
     </task>
     <task id="LOCAL-00001" summary="20.07.2022_first">
       <created>1658302722548</created>
@@ -140,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658341685138</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Calculator">
+      <created>1671107964480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671107964480</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +173,7 @@
     <MESSAGE value="hello" />
     <MESSAGE value="20.07.2022_first" />
     <MESSAGE value="220720_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="220720_2" />
+    <MESSAGE value="Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator" />
   </component>
 </project>
