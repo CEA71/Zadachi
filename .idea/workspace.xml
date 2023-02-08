@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf28ddd-c28f-440e-b725-0951f7d86d5d" name="Changes" comment="Calculator">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaRush/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaRush/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaRush/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PROGLANG/Test.java" afterDir="false" />
+    <list default="true" id="abf28ddd-c28f-440e-b725-0951f7d86d5d" name="Changes" comment="20_12_2022">
+      <change afterPath="$PROJECT_DIR$/src/Modul_6/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modul_6/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tank/Tank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaRush/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaRush/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaRush/EvenNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/Zadachis/JavaRush" />
   </component>
-  <component name="RunManager" selected="Application.EvenNumber">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaRush.Calculator" />
-      <module name="Zadachis" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaRush.EvenNumber" />
       <module name="Zadachis" />
@@ -65,12 +57,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practika.Solution" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tank.Main" />
       <module name="Zadachis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practika.*" />
+          <option name="PATTERN" value="Tank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul_6.SubClass" />
+      <module name="Zadachis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SubClass" />
         <item itemvalue="Application.EvenNumber" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +134,9 @@
       <workItem from="1671101457465" duration="2284000" />
       <workItem from="1671175572680" duration="3705000" />
       <workItem from="1671432937631" duration="735000" />
-      <workItem from="1671519961812" duration="1699000" />
+      <workItem from="1671519961812" duration="2392000" />
+      <workItem from="1671706893820" duration="2132000" />
+      <workItem from="1675849377711" duration="1936000" />
     </task>
     <task id="LOCAL-00001" summary="20.07.2022_first">
       <created>1658302722548</created>
@@ -152,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671107964480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20_12_2022">
+      <created>1671526257773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671526257774</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +188,7 @@
     <MESSAGE value="20.07.2022_first" />
     <MESSAGE value="220720_2" />
     <MESSAGE value="Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator" />
+    <MESSAGE value="20_12_2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="20_12_2022" />
   </component>
 </project>
