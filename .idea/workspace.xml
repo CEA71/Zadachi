@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf28ddd-c28f-440e-b725-0951f7d86d5d" name="Changes" comment="Tank return">
+    <list default="true" id="abf28ddd-c28f-440e-b725-0951f7d86d5d" name="Changes" comment="Tank modern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tank/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tank/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tank/Tank.java" afterDir="false" />
@@ -142,7 +142,8 @@
       <workItem from="1671519961812" duration="2392000" />
       <workItem from="1671706893820" duration="2132000" />
       <workItem from="1675849377711" duration="5071000" />
-      <workItem from="1675931105404" duration="2904000" />
+      <workItem from="1675931105404" duration="3731000" />
+      <workItem from="1676364601061" duration="1787000" />
     </task>
     <task id="LOCAL-00001" summary="20.07.2022_first">
       <created>1658302722548</created>
@@ -186,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675860428891</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tank modern">
+      <created>1675947706414</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675947706414</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +219,7 @@
     <MESSAGE value="20_12_2022" />
     <MESSAGE value="Tank" />
     <MESSAGE value="Tank return" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tank return" />
+    <MESSAGE value="Tank modern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tank modern" />
   </component>
 </project>

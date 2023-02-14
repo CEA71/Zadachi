@@ -27,5 +27,8 @@ which can move forward and backward
         anywareTank.printPosition();
         customTank.goForward(201);
         customTank.printPosition();
+
+        Tank tank1 = new Tank(-1000, -2000);
+        tank1.printPosition();
     }
 }
